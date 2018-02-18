@@ -1,2 +1,3 @@
 # input-string-ends-with-ctrl-D
 In c language multi line text input with ctrl+D as terminating condition
+check for ctrl+z if ctrl+d does not works...
